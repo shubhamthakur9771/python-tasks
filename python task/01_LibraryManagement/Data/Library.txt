@@ -1,0 +1,20 @@
+BOOK|Python Programming|Guido van Rossum|1001|False|12
+BOOK|Clean Code|Robert C. Martin|1002|True|8
+BOOK|The Pragmatic Programmer|Andrew Hunt|1003|False|15
+BOOK|Introduction to Algorithms|Thomas H. Cormen|1004|False|10
+BOOK|Head First Java|Kathy Sierra|1005|True|7
+EBOOK|Artificial Intelligence|Stuart Russell|2001|False|18|25.5
+EBOOK|Machine Learning|Tom M. Mitchell|2002|True|22|18.7
+EBOOK|Deep Learning|Ian Goodfellow|2003|False|14|42.3
+EBOOK|Python Crash Course|Eric Matthes|2004|False|11|12.8
+EBOOK|Data Science from Scratch|Joel Grus|2005|True|9|16.4
+EBOOK|Effective Java|Joshua Bloch|2006|False|17|9.6
+EBOOK|Learning SQL|Alan Beaulieu|2007|False|6|7.9
+PRINTEDBOOK|Harry Potter and the Sorcerer's Stone|J.K. Rowling|3001|False|30|A-101
+PRINTEDBOOK|The Hobbit|J.R.R. Tolkien|3002|True|26|A-102
+PRINTEDBOOK|The Lord of the Rings|J.R.R. Tolkien|3003|False|21|A-103
+PRINTEDBOOK|To Kill a Mockingbird|Harper Lee|3004|False|13|B-201
+PRINTEDBOOK|The Great Gatsby|F. Scott Fitzgerald|3005|True|16|B-202
+PRINTEDBOOK|1984|George Orwell|3006|False|19|C-301
+PRINTEDBOOK|The Alchemist|Paulo Coelho|3007|False|28|C-302
+PRINTEDBOOK|Atomic Habits|James Clear|3008|True|24|D-401

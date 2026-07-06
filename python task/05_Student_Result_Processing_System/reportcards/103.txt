@@ -1,0 +1,13 @@
+===== Report Card =====
+
+Roll No : 103
+Name     : Amit
+
+Subject 1 : 90
+Subject 2 : 95
+Subject 3 : 89
+
+Total : 274
+Average : 91.33
+Grade : A+
+Result : PASS

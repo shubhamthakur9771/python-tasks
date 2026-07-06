@@ -1,0 +1,10 @@
+Laptop,50000,10
+Mouse,500,20
+Keyboard,1200,8
+Monitor,15000,3
+Speaker,2500,6
+Printer,18000,4
+Webcam,3500,7
+Headphones,2000,12
+USB Drive,800,15
+Power Bank,1500,9

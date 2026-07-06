@@ -1,0 +1,12 @@
+Skipped Record --> 105,Neha,56,abc,89 : Non-numeric marks
+Skipped Record --> 106,Rohan,65,70 : Missing Fields
+Skipped Record --> 105,Neha,56,abc,89 : Non-numeric marks
+Skipped Record --> 106,Rohan,65,70 : Missing Fields
+Skipped Record --> 105,Neha,56,abc,89 : Non-numeric marks
+Skipped Record --> 106,Rohan,65,70 : Missing Fields
+Skipped Record --> 105,Neha,56,abc,89 : Non-numeric marks
+Skipped Record --> 106,Rohan,65,70 : Missing Fields
+Skipped Record --> 105,Neha,56,abc,89 : Non-numeric marks
+Skipped Record --> 106,Rohan,65,70 : Missing Fields
+Skipped Record --> 105,Neha,56,abc,89 : Non-numeric marks
+Skipped Record --> 106,Rohan,65,70 : Missing Fields

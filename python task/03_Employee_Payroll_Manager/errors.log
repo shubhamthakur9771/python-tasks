@@ -1,0 +1,6 @@
+Line 11: InvalidRow --> Malformed row
+Line 12: Chris Martin,111,ABC,Marketing --> could not convert string to float: 'ABC'
+Line 13: Emma White,112,60000 --> Malformed row
+Line 11: InvalidRow --> Malformed row
+Line 12: Chris Martin,111,ABC,Marketing --> could not convert string to float: 'ABC'
+Line 13: Emma White,112,60000 --> Malformed row

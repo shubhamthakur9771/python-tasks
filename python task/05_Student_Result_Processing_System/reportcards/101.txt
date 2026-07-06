@@ -1,0 +1,13 @@
+===== Report Card =====
+
+Roll No : 101
+Name     : Shubham
+
+Subject 1 : 85
+Subject 2 : 92
+Subject 3 : 78
+
+Total : 255
+Average : 85.00
+Grade : A
+Result : PASS

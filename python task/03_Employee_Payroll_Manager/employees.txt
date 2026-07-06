@@ -1,0 +1,16 @@
+John Smith,101,50000,HR
+Alice Johnson,102,65000,IT
+Bob Williams,103,45000,Finance
+David Brown,104,70000,Sales
+Emily Davis,105,55000,HR
+Michael Wilson,106,80000,IT
+Sophia Moore,107,62000,Marketing
+James Taylor,108,48000,Finance
+Olivia Anderson,109,75000,Sales
+Daniel Thomas,110,90000,IT
+InvalidRow
+Chris Martin,111,ABC,Marketing
+Emma White,112,60000
+Kevin Harris,113,68000,Operations
+Lisa Clark,114,-5000,HR
+Ryan Lewis,115,72000,IT

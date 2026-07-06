@@ -1,0 +1,67 @@
+------ PAYSLIPS ------
+
+Employee : Lisa Clark
+ID       : 114
+Department : HR
+Salary   : -6000.00
+-----------------------------
+Employee : Bob Williams
+ID       : 103
+Department : Finance
+Salary   : 54000.00
+-----------------------------
+Employee : James Taylor
+ID       : 108
+Department : Finance
+Salary   : 57600.00
+-----------------------------
+Employee : John Smith
+ID       : 101
+Department : HR
+Salary   : 60000.00
+-----------------------------
+Employee : Emily Davis
+ID       : 105
+Department : HR
+Salary   : 66000.00
+-----------------------------
+Employee : Sophia Moore
+ID       : 107
+Department : Marketing
+Salary   : 74400.00
+-----------------------------
+Employee : Alice Johnson
+ID       : 102
+Department : IT
+Salary   : 78000.00
+-----------------------------
+Employee : Kevin Harris
+ID       : 113
+Department : Operations
+Salary   : 81600.00
+-----------------------------
+Employee : David Brown
+ID       : 104
+Department : Sales
+Salary   : 84000.00
+-----------------------------
+Employee : Ryan Lewis
+ID       : 115
+Department : IT
+Salary   : 86400.00
+-----------------------------
+Employee : Olivia Anderson
+ID       : 109
+Department : Sales
+Salary   : 90000.00
+-----------------------------
+Employee : Michael Wilson
+ID       : 106
+Department : IT
+Salary   : 96000.00
+-----------------------------
+Employee : Daniel Thomas
+ID       : 110
+Department : IT
+Salary   : 108000.00
+-----------------------------

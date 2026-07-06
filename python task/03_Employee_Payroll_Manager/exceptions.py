@@ -1,0 +1,2 @@
+class InvalidEmployeeData(Exception):
+    pass

@@ -1,0 +1,9 @@
+Deepak,98765,deepak@gmail.com,Personal -> Phone should contain exactly 10 digits
+Ritu,987654321A,ritu@gmail.com,Work -> Phone contains Non-digit characters
+Suresh,91234567890,suresh@gmail.com,Personal -> Phone should contain exactly 10 digits
+Aditi,8765432101,aditigmail.com,Work -> Invalid Email Format
+Mohit,9345678901,mohit@.com,Personal -> Invalid Email Format
+Nisha,9456789012,nisha@gmail,Work -> Invalid Email Format
+Arjun,9567890123,arjun@@gmail.com,Personal -> Invalid Email Format
+Kavita,9678901234,kavita@gmail.c,Work -> Invalid Email Format
+Rakesh,9789012345,rakesh@gmail.com -> invalid number of fields

@@ -1,0 +1,13 @@
+===== Report Card =====
+
+Roll No : 108
+Name     : Karan
+
+Subject 1 : 55
+Subject 2 : 44
+Subject 3 : 60
+
+Total : 159
+Average : 53.00
+Grade : D
+Result : PASS

@@ -1,0 +1,13 @@
+===== Report Card =====
+
+Roll No : 104
+Name     : Priya
+
+Subject 1 : 34
+Subject 2 : 78
+Subject 3 : 90
+
+Total : 202
+Average : 67.33
+Grade : C
+Result : FAIL

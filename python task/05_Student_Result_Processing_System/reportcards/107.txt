@@ -1,0 +1,13 @@
+===== Report Card =====
+
+Roll No : 107
+Name     : Anjali
+
+Subject 1 : 88
+Subject 2 : 91
+Subject 3 : 94
+
+Total : 273
+Average : 91.00
+Grade : A+
+Result : PASS
