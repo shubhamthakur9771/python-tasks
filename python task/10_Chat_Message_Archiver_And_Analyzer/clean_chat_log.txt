@@ -1,0 +1,10 @@
+Alice | 2026-07-06 10:00:00 | Hello everyone
+Bob | 2026-07-06 10:01:15 | Hi Alice
+Charlie | 2026-07-06 10:02:10 | Good morning
+Alice | 2026-07-06 10:03:20 | How are you
+Bob | 2026-07-06 10:08:45 | I am doing well
+Alice | 2026-07-06 10:12:00 | Great to hear
+Bob | 2026-07-06 10:15:30 | Let's start the meeting
+Alice | 2026-07-06 10:18:10 | Hello Bob
+Bob | 2026-07-06 10:22:30 | Hello Alice
+Charlie | 2026-07-06 10:25:40 | Good morning everyone
